@@ -7,7 +7,7 @@
         <div class="overflow-auto">
             
             <div class="header-center-bold">
-                <a href="essays-books.php"><span>E</span>ssays &#38; <span>C</span>ollections</a>
+                <a href="essays-books.php"><span>E</span>ssays &#38; <span>C</span>ollections <span>L</span>ibrary</a>
             </div>
             <div class="center">
                 <a href="essays-books.php"><img src="../images/F-essays-collections-500x366.jpg" width="500" height="366" alt="Essays and Collections Image" /></a>
