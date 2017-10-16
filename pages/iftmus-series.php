@@ -12,7 +12,7 @@
                 <a href="iftmus.php">The Three World Saga</a>
             </div>
 				<div class="series-pic-iftmus">
-                <a href="iftmus.php"><img src="../images/iftmus-cover-333x250.jpg" width="333" height="250" alt="Prologue Image" /></a>
+                <a href="iftmus.php"><img src="../images/iftmus-prologue-336x250.jpg" width="336" height="250" alt="Prologue Image" /></a>
             </div>
 				<div class="series-text-axtoph">
 					 <ul class="ul">
