@@ -4,7 +4,7 @@
 ?> 
     <div class="content">
 
-        <div class="header">
+        <div class="header-center-bold bottom-1pct">
             <a href="iftmus-chpt-1.php"><span>I</span>ftmus</a>
         </div>
 
@@ -60,7 +60,7 @@
                     <dl>
                        <dt>Abe Somon</dt>
                             <dd>
-                                <span>(Ah-bee Sa--maun)</span> Eighty year old human gardener at Elbron.
+                                <span>(Ah-bee Sa-maun)</span> Eighty year old human gardener at Elbron.
                             </dd>
                         <dt>All Tomac</dt>
                             <dd>
