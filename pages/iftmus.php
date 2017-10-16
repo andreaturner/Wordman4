@@ -9,7 +9,7 @@
         </div>
 
         <div class="series-pic-center">
-            <a href="iftmus-chpt-1.php"><img src="../images/iftmus-cover-934x700.jpg" width="934" height="700" alt="Iftmus image"></a>
+            <a href="iftmus-chpt-1.php"><img src="../images/iftmus-prologue-600x447.jpg" width="600" height="447" alt="Iftmus image"></a>
         </div>
                           
             <div class="header-excerpts">
