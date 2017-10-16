@@ -124,6 +124,18 @@ html, body {
     margin-bottom: 1%;
 }
 
+.wdth100pct {
+    width: 100%;
+}
+
+.wdth80pct {
+    width: 80%;
+}
+
+.wdth70pct {
+    width: 70%;
+}
+
 /*End font and alignment classes*/
 
 /* Biography & Published Works page styles */
@@ -199,13 +211,21 @@ a:hover {
     margin-top: 1.2%;
 }
 
-.small-header-essay {
-    font-size: x-large;
+.small-header {
+    font-size: 1em;
     font-weight: bold;
     text-align: center;
     font-family: "lucida calligraphy",arial,'sans serif';
-    margin-bottom: 1%;
+    margin-bottom: 10px;
 }
+
+.small-header-essay {
+    font-size: 1em;
+    font-weight: bold;
+    text-align: center;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    margin-top: 1%;
+}    
 
 /*End header classes*/
 
@@ -269,13 +289,11 @@ a:hover {
     margin-bottom: .8%; 
 }
 
-.essay-series-summary-wdth100pct {
+.essay-series-summary {
    font-family: Lora, serif;
    overflow: auto;
    margin-top: 1%;
-   width: 100%;
 }
-
 
 .footer {
     font-size: medium;
