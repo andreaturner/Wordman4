@@ -73,6 +73,30 @@ html, body {
     font-family: 'vivaldi';
 }
 
+.bold {
+    font-weight: bold;
+}
+
+.two-em {
+    font-size: 2em;
+}
+
+.one-eight-em {
+    font-size: 1.8em;
+}
+
+.one-five-em {
+    font-size: 1.5em;
+}
+
+.one-em {
+    font-size: 1em;
+}
+
+.pt-eight-em {
+    font-size: 0.8em;
+}
+
 .smaller {
     font-size: 80%;
 }
@@ -124,8 +148,16 @@ html, body {
     margin-bottom: 1%;
 }
 
+.top-3pct {
+    margin-top: 3%;
+}
+
 .wdth100pct {
     width: 100%;
+}
+
+.wdth90pct {
+    width: 90%;
 }
 
 .wdth80pct {
@@ -201,6 +233,11 @@ a:hover {
     text-align: center;
     font-family: 'lucida calligraphy',arial,'sans serif';
     margin: 1% 0;
+}
+
+.main-header {
+    font-family: "lucida calligraphy",arial,'sans serif';
+    margin-top: 1.2%;
 }
 
 .header-center-bold {

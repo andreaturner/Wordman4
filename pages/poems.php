@@ -19,12 +19,10 @@
 
         <div class="small-header-essay">
             More than 160 Poems&#46;<br>
-            Read some samples here&#33;
-        </div>
+            <a href="journey.php">Read a sample here!</a>
 
         <div class="small-header-essay">
         	<a href="journey.php">The Journey Ongoing<br>
-        	<a href="time.php">Time</a>
         </div>
 
         <div class="more">
