@@ -45,7 +45,7 @@
             </div>
 
             <div class="series-pic-iftmus">
-                <a href="under-construction.php"><img src="../images/true-lies-408x333.jpg" width="408" height="333" alt="True Lies image" /></a>
+                <a href="under-construction.php"><img src="../images/true-lies-400x425.jpg" width="408" height="333" alt="True Lies image" /></a>
             </div>
             <div class="essay-text-excerpt">
                 Whether trying to recall an event or cover the actions within&#44;<br>
