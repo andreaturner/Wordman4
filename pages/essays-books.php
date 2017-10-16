@@ -13,7 +13,7 @@
 
         <div class="essay-series-summary">
             <div class="series-pic-iftmus">
-                <a href="songs-poems-thoughts.php"><img src="../images/shards-250x256.jpg" width="250" height="253" alt="Shards of a Broken Mirror Image" /></a>
+                <a href="shards.php"><img src="../images/shards-250x256.jpg" width="250" height="253" alt="Shards of a Broken Mirror Image" /></a>
             </div>
 
             <div class="main-header center bold top-3pct one-five-em wdth80pct">

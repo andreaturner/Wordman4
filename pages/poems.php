@@ -19,10 +19,10 @@
 
         <div class="small-header-essay">
             More than 160 Poems&#46;<br>
-            <a href="journey.php">Read a sample here!</a>
+            <a href="journey.php">Read a sample here&#33;</a>
 
         <div class="small-header-essay">
-        	<a href="journey.php">The Journey Ongoing<br>
+        	<a href="journey.php">The Journey Ongoing</a>
         </div>
 
         <div class="more">
