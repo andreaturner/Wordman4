@@ -1366,7 +1366,7 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 
 		<!-- jQuery UI library -->
-		<script src="../scripts/jquery-ui/jquery-ui.min.js"></script>
+		<script_dave src="../scripts/jquery-ui/jquery-ui.min.js"></script>
 		
 		<script type="text/javascript">
 			//shorthand version - everybody uses this one in real life

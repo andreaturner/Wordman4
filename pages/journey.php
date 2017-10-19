@@ -12,7 +12,7 @@
         <div class="songs center">
             And when the moon swims &#8216;cross the blackest of sky&#44;<br>
             Oft&#8217; then we fail with our very own eye<br>
-            To see the silhouette of souls masked &#38216;gainst the light&#44; <br>
+            To see the silhouette of souls masked &#39;gainst the light&#44; <br>
             Taking flight&#8230;<br>
             Ne&#8217;re giving thought to the hearts left behind<br>
             Searching through bewildered tears&#46;<br><br>
