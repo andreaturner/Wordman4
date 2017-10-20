@@ -1018,7 +1018,7 @@
                 
             <h3 style="font-weight: bold;">Prologue</h3>
 				<div>  <!-- start Prologues div -->
-                <div id="content">
+                <div id="accrdn-prlog">
                 <!--  Section 1 -->
                     <div class="keep-it-together">  <!-- start keep-it-together div Section 1 -->
 								<a name="mist"></a>
@@ -1366,7 +1366,7 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 
 		<!-- jQuery UI library -->
-		<script_dave src="../scripts/jquery-ui/jquery-ui.min.js"></script>
+		<script src="../scripts/jquery-ui/jquery-ui.min.js"></script>
 		
 		<script type="text/javascript">
 			//shorthand version - everybody uses this one in real life
