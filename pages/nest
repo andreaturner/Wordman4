@@ -1,0 +1,22 @@
+<?php
+    $page_title = 'Thoughts &#47; Journals';
+    include ('../shared/header.html');
+?>
+
+	<div class="page-wdth100pct">
+
+		<div class="header-center-bold">
+            Leaving the Nest
+        </div>
+
+        
+
+        <div class="more">
+            <a href="essays-books.php">Return to Essays &#38; Collections</a>
+        </div>
+
+	</div> <!-- End page-wdth100pct div -->
+ 
+<?php
+    include ('../shared/footer.html');            
+?>
