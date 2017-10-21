@@ -68,7 +68,7 @@
 
         <div class="essay-series-summary"> 
             <div class="series-pic-iftmus">
-                <a href="under-construction.php"><img src="../images/dreams-250x216.jpg" width="250" height="216" alt="Dreams Image" /></a>
+                <a href="under-construction.php"><img src="../images/dreams-250x214.jpg" width="250" height="214" alt="Dreams Image" /></a>
             </div>
 
             <div class="main-header center bold top-3pct one-five-em wdth80pct">
@@ -110,6 +110,18 @@
 
             <div class="main-header center bold top-3pct one-five-em wdth80pct">
                 <a href="under-construction.php">Portraits of My Spirit in Passing</a>
+            </div>
+        </div>
+
+        <!-- start of side view mirror -->
+
+        <div class="essay-series-summary "> 
+            <div class="series-pic-iftmus">
+                <a href="under-construction.php"><img src="../images/side-view-mirror-250x241.jpg" width="250" height="241" alt="Side View Mirror Image" /></a>
+            </div>
+
+            <div class="main-header center bold top-3pct one-five-em wdth80pct">
+                <a href="under-construction.php">Side View Mirror</a>
             </div>
         </div>
 
