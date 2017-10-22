@@ -23,7 +23,7 @@
         </div>
 
         <div class="small-header-essay">
-        	<a href="under-construction.php">Leaving the Nest</a><br>
+        	<a href="nest.php">Leaving the Nest</a><br>
         	<a href="under-construction.php">Watching Baseball</a>
         </div>
 

@@ -15,7 +15,7 @@
                 <div class="center">
             	   <a href="songs.php"><img src="../images/F-songs-450x426.jpg" width="450" height="426" alt="Songs image" /></a>
             	   <div class="header-center-bold">
-            		    <a href="under-construction.php">Songs</a>
+            		    <a href="songs.php">Songs</a>
             	   </div>
                 </div>
             </div>
@@ -24,16 +24,16 @@
                 <div class="center">
             	   <a href="poems.php"><img src="../images/F-poems-450x342.jpg" width="450" height="342" alt="Poems image" /></a>
             	   <div class="header-center-bold">
-            		    <a href="under-construction.php">Poems</a>
+            		    <a href="poems.php">Poems</a>
             	   </div>
                 </div>
             </div>
 
             <div class="col-wdth30pct">
                 <div class="center">
-            	    <a href="under-construction.php"><img src="../images/F-thoughts-450x467.jpg" width="450" height="467" alt="Thoughts image" /></a>
+            	    <a href="thoughts.php"><img src="../images/F-thoughts-450x467.jpg" width="450" height="467" alt="Thoughts image" /></a>
                     <div class="header-center-bold">
-                        <a href="under-construction.php">Thoughts &#47; Journals</a>
+                        <a href="thoughts.php">Thoughts &#47; Journals</a>
                     </div>
                 </div>
             </div>
