@@ -24,7 +24,7 @@
 
         <div class="small-header-essay">
         	<a href="nest.php">Leaving the Nest</a><br>
-        	<a href="under-construction.php">Watching Baseball</a>
+        	<a href="nest.php">Watching Baseball</a>
         </div>
 
         <div class="more">

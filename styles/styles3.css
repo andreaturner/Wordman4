@@ -152,7 +152,19 @@ html, body {
     margin-top: 1%;
 }
 
-.top-3pct {
+.top-thrpct {
+    margin-top: 3%;
+}
+
+.mrg-top1pct {
+    margin-top: 1%;
+}
+
+.mrg-top2pct {
+    margin-top: 2%;
+}
+
+.mrg-top3pct {
     margin-top: 3%;
 }
 
@@ -268,6 +280,14 @@ a:hover {
 .main-header {
     font-family: "lucida calligraphy",arial,'sans serif';
     margin-top: 1.2%;
+}
+
+.header-center-bold-mrg3 {
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    font-family: "lucida calligraphy",arial,'sans serif';
+    margin-top: 3%;
 }
 
 .header-center-bold {
