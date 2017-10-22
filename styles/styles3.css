@@ -168,6 +168,10 @@ html, body {
     margin-top: 3%;
 }
 
+.mrg-bot1pct {
+    margin-bottom: 1%;
+}
+
 .mrg-left20pct {
     margin-left: 20%;
 }
@@ -282,12 +286,12 @@ a:hover {
     margin-top: 1.2%;
 }
 
-.header-center-bold-mrg3 {
+.header-center-bold-top-mrg2 {
     font-size: 2em;
     font-weight: bold;
     text-align: center;
     font-family: "lucida calligraphy",arial,'sans serif';
-    margin-top: 3%;
+    margin-top: 2%;
 }
 
 .header-center-bold {

@@ -43,11 +43,11 @@
 
         <div class="essay-series-summary"> 
             <div class="series-pic-iftmus">
-                <a href="under-construction.php"><img src="../images/eulogy-250x208.jpg" width="250" height="208" alt="Eulogy Through My Grandfather Image" /></a>
+                <a href="grandfather.php"><img src="../images/eulogy-250x208.jpg" width="250" height="208" alt="Eulogy Through My Grandfather Image" /></a>
             </div>
 
             <div class="main-header center bold top-3pct one-five-em wdth80pct">
-                <a href="under-construction.php">Eulogy Through My Grandfather</a>
+                <a href="grandfather.php">Eulogy Through My Grandfather</a>
             </div>
             
         </div>
@@ -56,11 +56,11 @@
 
         <div class="essay-series-summary"> 
             <div class="series-pic-iftmus">
-                <a href="under-construction.php"><img src="../images/random-250x202.jpg" width="250" height="202" alt="Random Thoughts Image" /></a>
+                <a href="random-thoughts.php"><img src="../images/random-250x202.jpg" width="250" height="202" alt="Random Thoughts Image" /></a>
             </div>
 
             <div class="main-header center bold top-3pct one-five-em wdth80pct">
-                <a href="under-construction.php">Random Thoughts</a>
+                <a href="random-thoughts.php">Random Thoughts</a>
             </div>
         </div>
 

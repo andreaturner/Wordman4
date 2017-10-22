@@ -34,7 +34,7 @@
 
             </div>
 
-        <div class="header-center-bold-mrg3">
+        <div class="header-center-bold">
             Watching Baseball
         </div>
 
