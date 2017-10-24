@@ -236,6 +236,7 @@ html, body {
 
 .bio-box {
     overflow: auto;
+    width: 75%;
 }
 
 /*div with bottom margin of 1%*/
@@ -243,12 +244,12 @@ html, body {
     margin-bottom: 1%;
     float: left;
     margin-top:  .4%;  
-    /*width: 50%; */
+   text-indent: 2.5%;
 }
 
 .margin-bottom-1 span {
     font-size: 110%;
-    text-indent: 2.5%;
+    /*text-indent: 2.5%;*/
 }
 
 /*div with top margin of 1%*/
@@ -280,7 +281,7 @@ html, body {
 .series-pic-about-top {
     text-align: left;
     float: left;
-    /*padding-left: 1%;*/
+    padding-left: 1%;
     padding-top: 2%;
 }
 

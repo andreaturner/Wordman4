@@ -12,20 +12,18 @@
     			<span>B</span>iography
     		</div>
             
-            <div class="series-pic-about-top wdth15pct">
+            <div class="series-pic-about-top">
                 <img src="../images/eric-color-head-shot-275x345.jpg" width="275" height="345" alt="Eric Color Head Shot Image" />
             </div>
 
-                <div class="bio-box wdth70pct">
+                <div class="bio-box">
 
                     <div class="bio">
                         <span class="larger vivaldi">Eric Koch</span> <span class="large">&#40;Cook&#41;</span> 
                         <br>
 
                         <div class="margin-bottom-1">
-                            <span>M</span>y parents were offspring of Russian/German immigrants; a tough crowd to play. I grew up in the shelter of the 50&#39;s
-                            and slow realizations of the 60&#39;s. Like all of us we think our time was the best. I was timid and unsure but my heritage demanded I
-                            pick my lot in life and pursue it with a passion.
+                            Born and raised in the Seattle / Tacoma area of Washington State, my parents were offspring of Russian / German immigrants; a tough crowd to play. I grew up in the shelter of the 50's and slow realizations of the 60's. Like all of us we think our time was the best. As a child I was a bit timid, if not unsure, but my heritage demanded I pick my lot in life and pursue it with a passion. That choice was always easy.
                         </div> 
 
                         <div class="margin-bottom-1">
@@ -54,11 +52,13 @@
 
                     </div>  <!-- [closes bio div] -->
 
-                </div>  <!--[closes bio-box div] -->    
-
-                        <div class="series-pic-about-bottom wdth15pct">
+                        <div class="series-pic-about-bottom">
                             <img src="../images/wedding-200x265.jpg" width="200" height="265" alt="Eric and Leslie Koch Image" />
                         </div>
+
+                </div>  <!--[closes bio-box div] -->    
+
+                        
 
         </div>  <!-- [closes page-wdth100pct div] -->
 
