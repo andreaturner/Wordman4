@@ -4,23 +4,29 @@
 ?>    
     
 
-
     <div class="page-wdth100pct">
 
         <div class="content">
     		<div class="header-center-bold">
     			<span>B</span>iography
     		</div>
+
+
             
-            <div class="series-pic-about-top">
-                <img src="../images/eric-color-head-shot-275x345.jpg" width="275" height="345" alt="Eric Color Head Shot Image" />
-            </div>
+            
 
-            <div class="series-pic-about-medium">
-                <img src="../images/josh-chris-275x187.jpg" width="275" height="187" alt="Josh and Chris Image" />
-            </div>
-
+           
                 <div class="bio-box">
+
+                    <div class="image-box">
+                        <div class="series-pic-about-top">
+                            <img src="../images/eric-color-head-shot-275x345.jpg" width="275" height="345" alt="Eric Color Head Shot Image" />
+                        </div>
+
+                        <div class="series-pic-about-middle">
+                            <img src="../images/josh-chris-275x187.jpg" width="275" height="187" alt="Josh and Chris Image" />
+                        </div>
+                    </div>
 
                     <div class="bio">
                         <span class="larger vivaldi">Eric Koch</span> <span class="large">&#40;Cook&#41;</span> 
@@ -52,21 +58,27 @@
                         </div>
 
                         <div class="margin-bottom-1">
-                            <span>A</span>fter what seems a lifetime of performing my music across the country&344; up and down the West Coast&344; inward to the Mid and Southwest and finally on the East Coast&344; 
+                            <span>A</span>fter what seems a lifetime of performing my music across the country&#44; up and down the West Coast&#44; inward to the Mid and Southwest and finally on the East Coast&#44; 
                             I am once again home&#59; residing in the Pacific Northwest&#46;
                         </div>
 
                         <div class="margin-bottom-1">
-                            <span>I</span> have continued writing stories over the years&#59; treating it as an ongoing exercise&344; when I wasn*#39;t creating or performing my music&346; I have now abated the 
-                            traveling &347; performing aspect of music and am recording my original songs, adapting them into smooth jazz instrumental versions&346; I've since redirected my focus on my writings 
-                            and my passion for photography&346; I have two unique sons&344; five wonderful grandchildren and three loyal dogs&346; Life is always good if not busy&346;
+                            <span>I</span> have continued writing stories over the years&#59; treating it as an ongoing exercise&#44; when I wasn&#39;t creating or performing my music&#46; I have now abated the 
+                            traveling &#47; performing aspect of music and am recording my original songs, adapting them into smooth jazz instrumental versions&#46; I've since redirected my focus on my writings 
+                            and my passion for photography&#46; I have two unique sons&#44; five wonderful grandchildren and three loyal dogs&#46; Life is always good if not busy&#46;
                         </div>
 
                     </div>  <!-- [closes bio div] -->
 
+                        
+
+
                         <div class="series-pic-about-bottom">
                             <img src="../images/wedding-200x265.jpg" width="200" height="265" alt="Eric and Leslie Koch Image" />
                         </div>
+
+                        
+
 
                 </div>  <!--[closes bio-box div] -->    
 
