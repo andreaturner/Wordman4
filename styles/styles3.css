@@ -227,10 +227,10 @@ html, body {
 .bio {
     font-family:'Lora', serif;
     font-size: large;
-    width: 50%;
+    width: 55%;
     text-align: left;
     float: left;
-    /*padding-left: 1%;*/
+    padding-left: 2%;
     padding-top: 2%;
 }
 
@@ -286,27 +286,14 @@ html, body {
 }
 
 .series-pic-about-top img {
-    border: double #000;
+    border: double  #000;
     padding: 5px;   
 }
 
-.series-pic-about-middle {
-    text-align: left;
-    float: left;
-    padding-left: 1%;
-    padding-top: 10%;
-    border: solid 1px red;
-}
-
-.series-pic-about-middle img {
-    border: double #000;
-    padding: 5px; 
-    float: left;  
-}
 
 .series-pic-about-bottom {
     float: left;
-    padding-top: 39%;
+    /*padding-top: 10%;*/
     /*padding-left:3%;*/
 }
 
@@ -314,13 +301,6 @@ html, body {
     border: double #000;
     float: left;
     padding: 5px;   
-}
-
-.image-box {
-    /*height: 100%;*/
-   /* width: 15%;*/
-    float: left;
-    overflow: auto;
 }
 
 
