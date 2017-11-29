@@ -290,6 +290,17 @@ html, body {
     padding: 5px;   
 }
 
+.series-pic-about-middle {
+    text-align: left;
+    float: left;
+    padding-left: 1%;
+    padding-top: 10%;
+}
+
+.series-pic-about-middle img {
+    border: double  #000;
+    padding: 5px;   
+}
 
 .series-pic-about-bottom {
     float: left;

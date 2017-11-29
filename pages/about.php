@@ -16,6 +16,10 @@
                 <img src="../images/eric-color-head-shot-275x345.jpg" width="275" height="345" alt="Eric Color Head Shot Image" />
             </div>
 
+            <div class="series-pic-about-medium">
+                <img src="../images/josh-chris-275x187.jpg" width="275" height="187" alt="Josh and Chris Image" />
+            </div>
+
                 <div class="bio-box">
 
                     <div class="bio">
