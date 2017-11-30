@@ -68,11 +68,11 @@
 
         <div class="essay-series-summary"> 
             <div class="series-pic-iftmus">
-                <a href="under-construction.php"><img src="../images/dreams-250x214.jpg" width="250" height="214" alt="Dreams Image" /></a>
+                <a href="dreams.php"><img src="../images/dreams-250x214.jpg" width="250" height="214" alt="Dreams Image" /></a>
             </div>
 
             <div class="main-header center bold top-3pct one-five-em wdth80pct">
-                <a href="under-construction.php">Dreams</a>
+                <a href="dreams.php">Dreams</a>
             </div>
         </div>
 
@@ -80,11 +80,11 @@
 
         <div class="essay-series-summary"> 
             <div class="series-pic-iftmus">
-                <a href="under-construction.php"><img src="../images/true-lies-250x278.jpg" width="250" height="278" alt="True Lies Image" /></a>
+                <a href="true-lies.php"><img src="../images/true-lies-250x278.jpg" width="250" height="278" alt="True Lies Image" /></a>
             </div>
 
             <div class="main-header center bold top-3pct one-five-em wdth80pct">
-                <a href="under-construction.php">True Lies</a>
+                <a href="true-lies.php">True Lies</a>
             </div>
             
         </div>
@@ -124,25 +124,6 @@
                 <a href="under-construction.php">Side View Mirror</a>
             </div>
         </div>
-
-        <!-- start of call yourself blind -->
-
-        <div class="essay-series-summary"> 
-            <div class="series-pic-iftmus">
-                <a href="under-construction.php"><img src="../images/call-blind-250x183.jpg" width="250" height="183" alt="Deny If You Will, but Call Yourself Blind Image" /></a>
-            </div>
-
-            <div class="main-header center bold top-3pct one-five-em wdth80pct">
-                <a href="under-construction.php">Deny If You Will, But Call Yourself Blind</a>
-            </div>
-        </div>
-
-        
-        
-
-
-
-
             
         <!-- <div class="credit-bottom-right">
             	Eric Koch
