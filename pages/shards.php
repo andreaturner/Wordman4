@@ -30,7 +30,11 @@
             </div> -->
 	
 		</div>  <!-- end overlow-auto div -->
-    </div> <!-- [end page-wdth100pct div] -->       
+    </div> <!-- [end page-wdth100pct div] -->   
+
+    <div class="more">
+        <a href="essays-books.php">Return to Essays &#38; Collections</a>
+    </div>    
 
 <?php
     include ('../shared/footer.html');            

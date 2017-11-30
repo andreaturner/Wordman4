@@ -1,5 +1,5 @@
 <?php
-    $page_title = 'Thoughts &#47; Journals';
+    $page_title = 'Eulogy Through My Grandfather';
     include ('../shared/header.html');
 ?>
 

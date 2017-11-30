@@ -19,16 +19,16 @@
 
         <div class="small-header-essay">
             More than 1000 entries&#46;<br>
-            Read some samples here&#33;
+            <a href="nest.php">Read some samples here&#33;</a>
         </div>
 
-        <div class="small-header-essay">
+        <!-- <div class="small-header-essay">
         	<a href="nest.php">Leaving the Nest</a><br>
         	<a href="nest.php">Watching Baseball</a>
-        </div>
+        </div> -->
 
-        <div class="more">
-            <a href="essays-books.php">Return to Essays &#38; Collections</a>
+        <div class="more mrg-top1pct">
+            <a href="songs-poems-thoughts.php">Return to Songs&#44; Poems&#44; &#38; Thoughts &#47; Journals</a>
         </div>
 
 	</div> <!-- End page-wdth100pct div -->

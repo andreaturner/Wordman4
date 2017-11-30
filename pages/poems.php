@@ -21,12 +21,12 @@
             More than 160 Poems&#46;<br>
             <a href="journey.php">Read a sample here&#33;</a>
 
-        <div class="small-header-essay">
+       <!--  <div class="small-header-essay">
         	<a href="journey.php">The Journey Ongoing</a>
-        </div>
+        </div> -->
 
-        <div class="more">
-            <a href="essays-books.php">Return to Essays &#38; Collections</a>
+        <div class="more mrg-top1pct">
+            <a href="songs-poems-thoughts.php">Return to Songs&#44; Poems&#44; &#38; Thoughts &#47; Journals</a>
         </div>
 
 	</div> <!-- End page-wdth100pct div -->
