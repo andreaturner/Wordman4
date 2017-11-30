@@ -1,31 +1,21 @@
 <?php
-    $page_title = 'True Lies';
+    $page_title = 'Portraits of My Spirit in Passing';
     include ('../shared/header.html');
 ?>
 
 	<div class="page-wdth100pct">
 		
 		<div class="header-center-bold ">
-            True Lies
+            Portraits of My Spirit in Passing
         </div>
 
-        <div class="medium center">
-            &#40;Recollections of a child&#41;
+        <div class="medium center italic">
+            Original Verse&#44; photographs &#38; music Composed and arranged by <span class="vivaldi"><span class="large">E</span>ric <span class="large">K</span>och</span>
         </div>
 
             <div class="wdth50pct mrg-left25pct">
 
-                <div class="mrg-bot1pct smaller center mrg-top3pct">
-                    There are stories told and rumors too<br>
-                    Of a world that&#39;s seen from a child&#39;s view&#46;<br>
-                    Recollections of a tired man<br>
-                    Who visits with that child again&#46;<br>
-                    See it now through younger eyes<br>
-                    It&#39;s how it was&#8230; it&#39;s<br>
-                    &#8220;True Lies.&#8221;
-                </div>
-
-                <div class="txt-indnt smaller">
+                <div class="txt-indnt smaller italic">
                     Maybe it was part of the punishment that my father considered it his duty to place me in a leaky wooden boat at least three times a year and expose the both of us to the worst elements of 
                     rain&#44; wind and sun so that we could suffer and watch everyone else around us catch fish&#46;
                 </div>

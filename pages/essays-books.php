@@ -93,11 +93,11 @@
 
         <div class="essay-series-summary"> 
             <div class="series-pic-iftmus">
-                <a href="under-construction.php"><img src="../images/many-things-250x211.jpg" width="250" height="211" alt="I Have Dreamed of Many Things Image" /></a>
+                <a href="many-things.php"><img src="../images/many-things-250x211.jpg" width="250" height="211" alt="I Have Dreamed of Many Things Image" /></a>
             </div>
 
             <div class="main-header center bold top-3pct one-five-em wdth80pct">
-                <a href="under-construction.php">I Have Dreamed of Many Things</a>
+                <a href="many-things.php">I Have Dreamed of Many Things</a>
             </div>
         </div>
 
@@ -105,11 +105,11 @@
 
         <div class="essay-series-summary "> 
             <div class="series-pic-iftmus">
-                <a href="under-construction.php"><img src="../images/spirit-passing-250x180.jpg" width="250" height="180" alt="Portraits of My Spirit in Passing Image" /></a>
+                <a href="portraits-spirit-passing.php"><img src="../images/spirit-passing-250x180.jpg" width="250" height="180" alt="Portraits of My Spirit in Passing Image" /></a>
             </div>
 
             <div class="main-header center bold top-3pct one-five-em wdth80pct">
-                <a href="under-construction.php">Portraits of My Spirit in Passing</a>
+                <a href="portraits-spirit-passing.php">Portraits of My Spirit in Passing</a>
             </div>
         </div>
 
