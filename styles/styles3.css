@@ -400,11 +400,11 @@ a:hover {
 .contact-text {
     font-family:'Lora', serif;
     font-size: large;
-    width: 75%;
+    /*width: 75%;*/
     text-align: left;
     float: left;
     padding-top: 1%;
-    padding-left: 10%;
+    padding-left: 20%;
     text-indent: 2.5%;
 }
 
@@ -422,6 +422,7 @@ a:hover {
     font-family: 'vivaldi';
     font-size: large;
     text-align: right;
+    clear: both;
     padding-right: 16%;
 }
 
