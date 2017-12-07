@@ -13,12 +13,12 @@
 
         <div class="essay-series-summary">
             <div class="series-pic-iftmus">
-                <a href="shards.php"><img src="../images/shards-250x256.jpg" width="250" height="253" alt="Shards of a Broken Mirror Image" /></a>
+                <a href="songs-poems-thoughts.php"><img src="../images/shards-250x256.jpg" width="250" height="253" alt="Shards of a Broken Mirror Image" /></a>
             </div>
 
             <div class="main-header center bold top-3pct one-five-em wdth80pct">
-                <a href="shards.php">Shards of a Broken Mirror:</a><br>
-                <a href="shards.php"><span class="italic smaller">&#40;Songs&#44; Poems&#44; &#38; Thoughts &#47; Journals&#41;</span></a>
+                <a href=" songs-poems-thoughts.php">Shards of a Broken Mirror:</a><br>
+                <a href="songs-poems-thoughts.php"><span class="italic smaller">&#40;Songs&#44; Poems&#44; &#38; Thoughts &#47; Journals&#41;</span></a>
             </div>
 
 
