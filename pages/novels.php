@@ -6,7 +6,7 @@
     <div class="books-page">
         <div class="keep-it-together">
             
-                <div class="header-novel">
+                <div class="header-center-bold">
                     <a href="books-series.php"><span>N</span>ovels <span>L</span>ibrary</a>
                 </div>
                 <div class="series-pic-books-novels">

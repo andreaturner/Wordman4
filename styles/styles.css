@@ -74,13 +74,14 @@ a:hover {
     text-decoration: underline;
 }
 
-.header {
+/*.header {
     font-size: xx-large;
     font-weight: bold;
     text-align: center;
+    font-family: 'Chaucer';
     font-family: "lucida calligraphy",arial,'sans serif';
-    margin-bottom: 10px;
-}
+    margin-bottom: 3%;
+}*/
 
 .header-130 {
     font-size: 1.5em;
@@ -274,13 +275,13 @@ a:hover {
     margin: 1% 0;
 }*/
 
-.small-header {
+/*.small-header {
     font-size: x-large;
     font-weight: bold;
     text-align: center;
-    font-family: "lucida calligraphy",arial,'sans serif';
+    font-family: 'Chaucer';
     margin-bottom: 10px;
-}
+}*/
 
 .small-header-red {
     font-size: x-large;

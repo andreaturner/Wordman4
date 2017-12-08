@@ -1325,7 +1325,8 @@ a:hover {
 }
 
 .book-series-summary-100 {
-   font-family: Lora, serif;
+   /* font-family: 'Chaucer';*/
+   /*font-family: Lora, serif;*/
    overflow: auto;
    margin-bottom: 10px;
    width: 100%;

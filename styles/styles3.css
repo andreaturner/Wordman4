@@ -338,6 +338,12 @@ a:hover {
 
 /*Header classes*/
 
+.header {
+   font-family: 'Chaucer';
+   font-size: 2em;
+   margin-bottom: 3%;
+}
+
 .header-excerpts {
     font-size: xx-large;
     /*font-weight: bold;*/
@@ -363,7 +369,7 @@ a:hover {
     font-size: 2em;
     /*font-weight: bold;*/
     text-align: center;
-    /*font-family: "lucida calligraphy",arial,'sans serif';*/
+    font-family: 'Chaucer';
     margin-top: 2%;
     margin-bottom: .8%;
 }
@@ -372,8 +378,9 @@ a:hover {
     font-size: 1em;
     /*font-weight: bold;*/
     text-align: center;
+    font-family: 'Chaucer';
     /*font-family: "lucida calligraphy",arial,'sans serif';*/
-    margin-bottom: 10px;
+    margin-bottom: 1%;
 }
 
 .small-header-essay {

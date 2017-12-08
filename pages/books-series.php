@@ -5,7 +5,7 @@
     <div class="content">
         
         <div class="book-series-summary-100">
-            <div class="header">
+            <div class="header-center-bold">
                 <span>N</span>ovels 
             </div>
             <div class="small-header">
