@@ -364,7 +364,7 @@ a:hover {
     /*font-weight: bold;*/
     text-align: center;
     /*font-family: "lucida calligraphy",arial,'sans serif';*/
-    margin-top: 3%;
+    margin-top: 2%;
     margin-bottom: .8%;
 }
 
@@ -412,7 +412,8 @@ a:hover {
 }
 
 .contact-text {
-    font-family:'Lora', serif;
+    font-family: 'Chaucer';
+    /*font-family:'Lora', serif;*/
     font-size: large;
     /*width: 75%;*/
     text-align: left;
@@ -502,7 +503,7 @@ a:hover {
 .logo-rt {
     float: right;
     clear: both;
-    margin-right: 16%;
+    margin-right: 20%;
 
 }
 
@@ -510,7 +511,7 @@ a:hover {
     text-align: right;
     font-family: 'Chaucer';
     font-weight: 600;
-    margin-right: 11%;
+    margin-right: 15%;
     margin-top: 3%;
     /*float: right;*/
 }

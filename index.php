@@ -15,6 +15,7 @@
         <link rel="stylesheet" href="styles/styles1.css" type="text/css" />
         <link rel="stylesheet" href="styles/styles3.css" type="text/css">
 		<link type="text/css"  href="styles/simplePagination.css" rel="stylesheet"/>
+        <link href="//db.onlinewebfonts.com/c/65b39f934991c42da4039cafd56b43e5?family=Chaucer" rel="stylesheet" type="text/css"/>
 
         <!-- [if IE] -->
             <link rel="stylesheet" type="text/css" href="all-ie-only.css" />
@@ -85,9 +86,9 @@
                     we all need to adapt, as desperately as any species that is so endangered.&rdquo;
                 </div>
 
-            <div class="credit-bottom-right">
-                    <span>E</span>ric <span>K</span>och
-            </div>  <!-- [closes credit div] -->
+           <div class="logo-rt small">
+                    <span class="vivaldi large">E</span><span class="vivaldi">ric</span><span class="vivaldi large">K</span><span class="vivaldi">och</span>
+                </div>  <!-- [closes credit div] -->
         </div>  <!-- [closes content div] -->
     </div>  <!-- [closes wrapper div] -->
    </body>

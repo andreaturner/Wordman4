@@ -11,7 +11,7 @@
 
             <div class="wdth50pct mrg-left25pct">
 
-                <div class="txt-indnt smaller"> 
+                <div class="txt-indnt smaller mrg-top3pct"> 
                     My grandfather was a peaceful man&#46; As a boy sitting on his lap&#44; I remember the rare sparkling eyes and husky laugh that transcended 
                     the usual gruff exterior&#46; His life had been the struggle of an immigrant&#44; coming to this country in search of peace&#44; wanting only a 
                     place where he and his wife might raise their children in freedom&#44; something&#44; up until then&#44; they had never before experienced&#46;
