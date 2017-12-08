@@ -117,11 +117,11 @@
 
         <div class="essay-series-summary "> 
             <div class="series-pic-iftmus">
-                <a href="under-construction.php"><img src="../images/side-view-mirror-250x241.jpg" width="250" height="241" alt="Side View Mirror Image" /></a>
+                <a href="side-view.php"><img src="../images/side-view-mirror-250x241.jpg" width="250" height="241" alt="Side View Mirror Image" /></a>
             </div>
 
             <div class="main-header center bold top-3pct one-five-em wdth80pct">
-                <a href="under-construction.php">Side View Mirror</a>
+                <a href="side-view.php">Side View Mirror</a>
             </div>
         </div>
             

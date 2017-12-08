@@ -175,6 +175,10 @@ html, body {
     margin-top: 3%;
 }
 
+.mrg-top5pct {
+    margin-top: 5%;
+}
+
 .mrg-bot1pct {
     margin-bottom: 1%;
 }
@@ -492,15 +496,22 @@ a:hover {
     left: auto;
     top: auto;
     padding-left: 5%;
-    margin: .1% 0 0 0;
+    /*margin: .1% 0 0 0;*/
+}
+
+.logo-rt {
+    float: right;
+    clear: both;
+    margin-right: 16%;
+
 }
 
 .more {
     text-align: right;
     font-family: 'Chaucer';
     font-weight: 600;
-    margin-right: 10%;
-    margin-top: 
+    margin-right: 11%;
+    margin-top: 3%;
     /*float: right;*/
 }
 

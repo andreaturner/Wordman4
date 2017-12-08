@@ -20,36 +20,33 @@
                     Side View Mirror
                 </div>
 
-                
-
-                <div class="txt-indnt smaller">
-                    Maybe it was part of the punishment that my father considered it his duty to place me in a leaky wooden boat at least three times a year and expose the both of us to the worst elements of 
-                    rain&#44; wind and sun so that we could suffer and watch everyone else around us catch fish&#46;
+                <div class="mrg-bot1pct smaller center">
+                    We &#8220;swagger step&#8221; down the road that lies beneath our feet<br>
+                    Remembering or forgetting the minions that we meet<br>
+                    Seeking&#44; each of us&#44; to wash off the sins of our soul&#59;<br>
+                    Praying all the while tis&#39; but a moments&#39; parole&#46;<br>
                 </div>
 
-                <div class="txt-indnt smaller">
-                    My father and I went out after trout on every lake in the county&#46; In the  dark hours we would arise and place a wooden monstrosity of a rowboat upon the top of the car&#46; The fog 
-                    would cling to us like a jealous lover saying don&#39;t go&#8230; I can keep you wet and cold right here&#46; You know what isn&#39;t going to happen out there on the lake&#46; And for 
-                    all the fish we never caught&#44; all the water we had to bail&#8230; the fog had spoken the truth&#46;
+                <div class="mrg-bot1pct smaller center mrg-top1pct">
+                    Oh foolish mortals&#44; from what do we hide&#8230;<br>
+                    That delicate heartbeat&#44; within doth reside&#46;<br>
+                    To give us the moment&#44; a gift while we dwell<br>
+                    On that fine fragile line &#39;tween both Heaven and hell&#33;<br>
                 </div>
 
-                <div class="txt-indnt smaller">
-                    We went after salmon up and down Puget Sound&#46; There my dad had to finally give up using oars to troll&#46; He rented a motor begrudgingly while muttering under his breath that the 
-                    rental fee was an affront to nature and merely the ferryman&#39;s toll to reach the distant shores of hell&#46;
+                 <div class="logo-rt small">
+                    <span class="vivaldi large">E</span><span class="vivaldi">ric</span><span class="vivaldi large">K</span><span class="vivaldi">och</span> &#39;13
                 </div>
 
-                <div class="txt-indnt smaller">
-                   We had the latest lures&#59; the newest poles and our tackle boxes contained enough extra everything that we could&#39;ve outfitted ten more fishermen had they come aboard our 8&#45;foot 
-                   wooden yacht&#46;
+                <div class="txt-indnt smaller mrg-top5pct">
+                    Reflection on the past is a walk on a soft dirt path&#46; That dirt in places is dry beneath the sun of children&#39;s laughter&#46; We kick up whirlwinds of light hearted 
+                    dust in rhythm to that laughter&#46; Or the dirt may be mud&#44; born of tears and regret&#59; a wet sand that clings and burdens our every step&#46; The path whispers to 
+                    us along the way&#46; It questions&#44; affirms and condemns more often than leading us&#46; &#8220;The whispers&#8221; seem to believe&#44; if what we do what is right&#44; 
+                    we need no affirmation&#46;It is expected that we feel in our heart the fulfillment of our soul&#46; We should never step back into the mud without question or an argument&#46;
                 </div>
 
-                <div class="txt-indnt smaller">
-                   The weather was never accommodating&#46; The rain would hold off until we were too far from shore to turn back&#46; The boat no matter how we treated it sustained a two inch layer of water 
-                   on its&#39; floor&#44; as if an offering to cool our temperament when we came back empty handed again&#46;
-                </div>
-
-                <div class="txt-indnt smaller">
-                   Still there was simplicity to life then&#44; though I often wonder how, according to today&#39;s standards&#44; we ever survived it&#46;
+                <div class="logo-rt small">
+                    <span class="vivaldi large">E</span><span class="vivaldi">ric</span><span class="vivaldi large">K</span><span class="vivaldi">och</span> &#39;74
                 </div>
 
             </div> <!-- [end wdth50pct mrg-left25pct div] -->
