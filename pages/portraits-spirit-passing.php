@@ -21,11 +21,20 @@
                     Our souls will either be enriched or deprived by our own choices&#46;
                 </div>
 
+                <div class="center">
+                  <img src="../images/portraits-400x545.jpg" width="400" height="545" alt="Portraits of My Spirit in Passing Image" />
+                </div>
 
-
-
-
-                
+                <div class="mrg-bot1pct smaller center mrg-top1pct">
+                    We are in constant conflict with nature&#46;<br>
+                    Though adversarial more out of ignorance&#44;<br>
+                    We push on and continue to blink innocent eyes<br>
+                    at our own&#44; &#8220;new found&#44;&#8221; revelations&#46;<br>
+                    We are insignificant giants in this world&#44;<br>
+                    God help us if we wish to prove our dominance&#8230;&#44;<br>
+                    For we will be slapped like a gnats<br>
+                    While the universe chuckles&#46;<br>
+                </div>
 
             </div> <!-- [end wdth50pct mrg-left25pct div] -->
 

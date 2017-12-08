@@ -1,33 +1,26 @@
 <?php
-    $page_title = 'True Lies';
+    $page_title = 'Side View Mirror';
     include ('../shared/header.html');
 ?>
 
 	<div class="page-wdth100pct">
 		
-		<div class="header-center-bold ">
-            True Lies
-        </div>
-
-        <div class="medium center">
-            &#40;Recollections of a child&#41;
-        </div>
+		
 
             <div class="wdth50pct mrg-left25pct">
 
                 <div class="mrg-bot1pct smaller center mrg-top3pct">
-                    There are stories told and rumors too<br>
-                    Of a world that&#39;s seen from a child&#39;s view&#46;<br>
-                    Recollections of a tired man<br>
-                    Who visits with that child again&#46;<br>
-                    See it now through younger eyes<br>
-                    It&#39;s how it was&#8230; it&#39;s<br>
-                    &#8220;True Lies.&#8221;
+                    On most of the roads we choose&#44;<br>
+                    We can glimpse the past<br>
+                    Observe the present<br>
+                    and in doing so gain hope for the future&#46;<br>
                 </div>
 
-                <div class="large mrg-top1pct mrg-bot1pct center">
-                    &#42;&#42;&#42;&#42;
+                <div class="header-center-bold ">
+                    Side View Mirror
                 </div>
+
+                
 
                 <div class="txt-indnt smaller">
                     Maybe it was part of the punishment that my father considered it his duty to place me in a leaky wooden boat at least three times a year and expose the both of us to the worst elements of 
