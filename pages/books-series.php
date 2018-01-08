@@ -8,18 +8,22 @@
             <div class="header-center-bold">
                 <span>N</span>ovels 
             </div>
+
             <div class="small-header">
                 <a href="iftmus-series.php">Iftmus</a>
             </div>
+
             <div class="series-pic-iftmus">
                 <a href="iftmus-series.php"><img src="../images/iftmus-of-dreams-like-mist-253x350.jpg" width="253" height="350" alt="Iftmus Image" /></a>
             </div>
+
             <div class="series-text-adventure-list">
                 Book I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="large"><a href="iftmus-book1.php">&ldquo;Of Dreams Like Mist&rdquo;</a></span><br>
                 Book II&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="large"><a href="iftmus-book2.php">&ldquo;To Embace The Night&rdquo;</a></span><br>
                 Book III&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="large"><a href="iftmus-book3.php">&ldquo;To Chase A Shadow&rdquo;</a></span><br>
                 Book IV&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="large"><a href="iftmus-book4.php">&ldquo;That None Shall Remain&rdquo;</a></span><br>
             </div>
+            
             <div class="series-text-adventure">
                 <span class="large">T</span>hree unlikely Heroes from three worlds, make up the nine &ldquo;Nakostoma&rdquo; who are destined to be the final stand against the younger 
                 god of Chaos, &ldquo;Baushra&rdquo;. Baushra is stepping outside of the balance of life and is manifesting itself as a living god on all three worlds. 
