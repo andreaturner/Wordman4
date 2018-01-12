@@ -198,10 +198,6 @@ html, body {
     margin-bottom: 3%;
 }
 
-.mrg-bot10pct {
-    margin-bottom: 10%;
-}
-
 .mrg-left20pct {
     margin-left: 20%;
 }
@@ -430,11 +426,8 @@ a:hover {
     margin-top: 3%; 
 }
 
-.contact-text {
-    font-family: 'Chaucer';
-    /*font-family:'Lora', serif;*/
+.index-text {
     font-size: large;
-    /*width: 75%;*/
     text-align: left;
     float: left;
     padding-top: 1%;
@@ -442,9 +435,8 @@ a:hover {
     text-indent: 2.5%;
 }
 
-.contact-text span {
-    font-style: italic;
-    font-size: 130%;
+.index-text span {
+    font-size: 120%;
 }
 
 .copyright-published {

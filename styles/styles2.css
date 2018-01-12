@@ -379,13 +379,13 @@ a:hover {
     float: left;
 }
 
-.eric-koch {
+/*.eric-koch {
     font-size: 225%;
     font-weight: normal;
     text-align: center;
     font-family: 'VivaldiD';
     margin-bottom: 10px; 
-}
+}*/
 
 /* span tags */
 
@@ -1465,10 +1465,10 @@ a:hover {
 }
 
 .contact-text {
-    font-family:'Lora', serif;
+    /*font-family:'Lora', serif;*/
     /*font-size: 1em;*/
     /*width: 75%;*/
-    /*text-align: left;*/
+    text-align: left;
     float: left;
     padding-top: 1%;
     padding-left: 10%;
