@@ -31,7 +31,7 @@
                 <div class="eric-koch">
                     <span>E</span>ric <span>K</span>och
                 </div>
-                <div class="smaller-header">
+                <div class="header large bold center mrg-bot1pct">
                     <span>W</span>ordman <span>E</span>nterprise
                 </div>
                 <div class="small-header">
@@ -70,7 +70,7 @@
                 <img src="images/eric-standing.jpg" width="480" height="605" "alt="Eric Standing" />
             </div>
             
-                <div class="contact-text wdth60pct">
+                <div class="contact-text wdth60pct one-em ">
                     <span>&ldquo;A</span>s we get older, nature would have us trade off some of our youthful bravado for
                     the pursuit of more insight and self-growth. Why we fight it so hard is a different issue for another time. Still, one truth remains; when
                     we stop engaging and questioning ourselves we are more often destined to wither and die.

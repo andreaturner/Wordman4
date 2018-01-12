@@ -70,6 +70,13 @@ html, body {
 
 /*End main page styles*/
 
+/*header classes*/
+
+.header {
+    font-family: 'Chaucer';
+}
+
+
 /*Font and alignment classes*/
 
 .italic {
@@ -183,10 +190,17 @@ html, body {
     margin-bottom: 1%;
 }
 
+.mrg-bot2pct {
+    margin-bottom: 2%;
+}
+
 .mrg-bot3pct {
     margin-bottom: 3%;
 }
 
+.mrg-bot10pct {
+    margin-bottom: 10%;
+}
 
 .mrg-left20pct {
     margin-left: 20%;
@@ -204,8 +218,12 @@ html, body {
     width: 90%;
 }
 
-.wdth80pct {
-    width: 80%;
+.wdth75pct {
+    width: 75;
+}
+
+.wdth100pct {
+    width: 100%;
 }
 
 .wdth70pct {
@@ -260,19 +278,13 @@ html, body {
     margin-bottom: 1%;
     float: left;
     margin-top:  .4%;  
-   text-indent: 2.5%;
+    text-indent: 2.5%;
 }
 
 .margin-bottom-1 span {
     font-size: 110%;
     /*text-indent: 2.5%;*/
 }
-
-/*div with top margin of 1%*/
-
-/*.mrgn-top-1 {
-    margin-top: 1%;
-}*/
 
 .published-works {
     text-align: left;
@@ -340,8 +352,8 @@ a:hover {
 
 .header {
    font-family: 'Chaucer';
-   font-size: 2em;
-   margin-bottom: 3%;
+   /*font-size: 2em;
+   margin-bottom: 3%;*/
 }
 
 .header-excerpts {

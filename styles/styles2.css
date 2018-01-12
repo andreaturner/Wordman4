@@ -330,7 +330,7 @@ a:hover {
     font-size: large;
     font-weight: bold;
     text-align: center;
-    font-family: "lucida calligraphy",arial,'sans serif';
+    /*font-family: "lucida calligraphy",arial,'sans serif';*/
     margin-bottom: 10px;
 }
 
@@ -1466,9 +1466,9 @@ a:hover {
 
 .contact-text {
     font-family:'Lora', serif;
-    font-size: large;
-    width: 75%;
-    text-align: left;
+    /*font-size: 1em;*/
+    /*width: 75%;*/
+    /*text-align: left;*/
     float: left;
     padding-top: 1%;
     padding-left: 10%;
