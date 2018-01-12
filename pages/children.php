@@ -4,10 +4,10 @@
 ?> 
     <div class="content">
 		  
-		  <div class="header-novel">
+		  <div class="header center one-five-em">
 				<a href="under-construction.php"><span>C</span>hildren&#39;s &#38; <span>Y</span>oung <span>A</span>dult <span>L</span>ibrary
 		  </div>
-		  <div class="series-pic-books-novels">
+		  <div class="center">
 				<a href="under-construction.php"><img src="../images/F-children-500x321.jpg" width="500" height="321" alt="Children's Books Image" /></a>
 		  </div>
 	 </div>  <!-- [end content div] -->  

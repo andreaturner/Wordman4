@@ -6,7 +6,7 @@
     <div class="page-wdth100pct">
         <div class="overflow-auto">
             
-            <div class="header-center-bold">
+            <div class="header center one-five-em">
                 <a href="essays-books.php"><span>E</span>ssays &#38; <span>C</span>ollections <span>L</span>ibrary</a>
             </div>
             <div class="center">

@@ -70,11 +70,7 @@ html, body {
 
 /*End main page styles*/
 
-/*header classes*/
 
-.header {
-    font-family: 'Chaucer';
-}
 
 
 /*Font and alignment classes*/
@@ -344,12 +340,10 @@ a:hover {
 /*End link styles*/
 
 
-/*Header classes*/
+/*header classes*/
 
 .header {
-   font-family: 'Chaucer';
-   /*font-size: 2em;
-   margin-bottom: 3%;*/
+    font-family: 'Chaucer';
 }
 
 .header-excerpts {

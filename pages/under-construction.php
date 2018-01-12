@@ -17,7 +17,7 @@
     <body>
         <div class="wrapper">
             <div class="content">
-                <div class="header">
+                <div class="header center one-five-em">
                     <span class="large">~U</span>nder <span class="large">C</span>onstruction<span class="large">~</span>
                 </div>
                 <div class="small-header-red">
